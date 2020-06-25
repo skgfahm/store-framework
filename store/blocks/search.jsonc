@@ -26,7 +26,7 @@
   },
 
   "flex-layout.row#searchbread": {
-    "children": ["breadcrumb.search"]
+    "children": ["breadcrumb"]
   },
 
   "flex-layout.row#searchtitle": {
