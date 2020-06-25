@@ -42,10 +42,10 @@
             "minicart",
             "login"
           ],
-          "props":{
-              "inverted":true,
-              "sticky":true,
-              "fullwidth":false
+          "props": {
+              "inverted": true,
+              "sticky": true,
+              "fullWidth": false
           }
         },
 
