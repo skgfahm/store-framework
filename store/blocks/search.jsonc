@@ -11,40 +11,14 @@
   },
   "search-result-layout.desktop": {
     "children": [
-      "flex-layout.row#searchbread",
-      "flex-layout.row#searchtitle",
-      "flex-layout.row#totalproducts",
-      "flex-layout.row#orderby",
-      "flex-layout.row#fetchprev",
-      "flex-layout.row#searchcontent",
-      "flex-layout.row#filternavi",
-      "flex-layout.row#fetchmore"
+      "breadcrumb.search",
+      "search-title.v2",
+      "total-products.v2",
+      "order-by.v2",
+      "search-fetch-previous",
+      "search-content",
+      "filter-navigator.v3",
+      "search-fetch-more"
     ]
-  },
-
-  "flex-layout.row#searchbread": {
-    "children": ["breadcrumb.search"]
-  },
-
-  "flex-layout.row#searchtitle": {
-    "children": ["search-title.v2"]
-  },
-  "flex-layout.row#totalproducts": {
-    "children": ["total-products.v2"]
-  },
-  "flex-layout.row#orderby": {
-    "children": ["order-by.v2"]
-  },
-  "flex-layout.row#fetchprev": {
-    "children": ["search-fetch-previous"]
-  },
-  "flex-layout.row#searchcontent": {
-    "children": ["search-content"]
-  },
-  "flex-layout.row#filternavi": {
-    "children": ["filter-navigator.v3"]
-  },
-  "flex-layout.row#fetchmore": {
-    "children": ["search-fetch-more"]
   }
  }
