@@ -10,6 +10,11 @@
            "vtex.menu@2.x:menu#major"
        ]
    },
+   "vtex.menu@2.x:submenu#major":{
+    "children":[
+        "flex-layout.row#major"
+    ]
+  },
    "flex-layout.col#img":{
        "children":[
             "image#menu",
