@@ -19,14 +19,11 @@
       "flex-layout.row#searchcontent",
       "flex-layout.row#filternavi",
       "flex-layout.row#fetchmore"
-    ],
-    "props": {
-      "preventRouteChange": true
-    }
+    ]
   },
 
   "flex-layout.row#searchbread": {
-    "children": ["breadcrumb"]
+    "children": ["breadcrumb.search"]
   },
 
   "flex-layout.row#searchtitle": {
