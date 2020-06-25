@@ -13,7 +13,7 @@
     "children": [
       "flex-layout.row#searchbread",
       "flex-layout.row#searchtitle",
-      "flex-layout.row#totalproducs",
+      "flex-layout.row#totalproducts",
       "flex-layout.row#order-by",
       "flex-layout.row#fetch-prev",
       "flex-layout.row#search-content",
@@ -26,7 +26,7 @@
   },
 
   "flex-layout.row#searchbread": {
-    "children": ["breadcrumb-search"]
+    "children": ["breadcrumb.search"]
   },
 
   "flex-layout.row#searchtitle": {
@@ -48,6 +48,6 @@
     "children": ["filter-navigator.v3"]
   },
   "flex-layout.row#fetch-more": {
-    "children": ["search-fetech-more"]
+    "children": ["search-fetch-more"]
   }
  }
