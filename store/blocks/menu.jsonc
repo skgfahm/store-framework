@@ -17,7 +17,7 @@
     ]
   },
 
-  "menu-item#major-appliances":{
+  "vtex.menu@2.x:menu#major":{
     "children": [
         "menu-item#refrigerators",
         "menu-item#ovens",
@@ -35,7 +35,7 @@
     ]
   },
 
-  "menu-item#minor-appliances":{
+  "vtex.menu@2.x:menu#small":{
     "children": [
         "menu-item#mixers",
         "menu-item#toasters",
@@ -53,7 +53,7 @@
     ]
   },
 
-  "menu-item#electronics":{
+  "vtex.menu@2.x:menu#electronics":{
     "children": [
         "menu-item#cameras",
         "menu-item#laptops",
